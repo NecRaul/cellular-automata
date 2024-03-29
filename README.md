@@ -1,3 +1,3 @@
 # cellular-automata
 
-My variation of the Cellular Automata algorithm.
+Procedural Generation with Cellular Automata rules. I'll be using this for my Master's Thesis.
